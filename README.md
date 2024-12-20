@@ -27,7 +27,7 @@ Documentation:
     ```bash
     sudo vim index.html
 
-    ![Alt Text](/home/manu/Dev-Ops-learning/syn-project1/images/Project-1-3.png)
+    ![Alt Text](images/Project-1-3.png)
     !images/Project-1-3.0.png
 
 (3) Create a Dockerfile.
