@@ -16,19 +16,19 @@ Documentation:
 
 * Steps:
 
-(1) Create a Directory for your Project.
+1. Create a Directory for your Project.
 
     ```bash
     sudo mkdir syn-project1
     sudo cd syn-project1
 
-(2) Then create a html file based on your choice.
+2. Then create a html file based on your choice.
 
     ```bash
     sudo vim index.html
 
-    images/Project-1-3.png
-    images/Project-1-3.0.png
+    ! images/Project-1-3.png
+    !images/Project-1-3.0.png
 
 (3) Create a Dockerfile.
 
