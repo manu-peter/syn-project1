@@ -27,7 +27,7 @@ Documentation:
     ```bash
     sudo vim index.html
 
-    https://github.com/user-attachments/assets/144484be-288a-4069-bac0-d0d43de05f4c
+    ![Project Screenshot 1](![Project-1-3 0](https://github.com/user-attachments/assets/144484be-288a-4069-bac0-d0d43de05f4c)
     ![Project-1-3](https://github.com/user-attachments/assets/66cfcdd1-1413-41d4-8ec4-b677961e0864)
 
 
