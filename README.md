@@ -27,8 +27,9 @@ Documentation:
     ```bash
     sudo vim index.html
 
-    ![Project Screenshot 1](images/Project-1-3.png)
-    !images/Project-1-3.0.png
+    ![Project Screenshot 1](![Project-1-3 0](https://github.com/user-attachments/assets/144484be-288a-4069-bac0-d0d43de05f4c)
+    ![Project-1-3](https://github.com/user-attachments/assets/66cfcdd1-1413-41d4-8ec4-b677961e0864)
+
 
 (3) Create a Dockerfile.
 
@@ -47,7 +48,7 @@ Documentation:
 (5) Run the new built Docker image and check if its Running.
 
     ```bash
-    sudo docker run --name project-1 -p 80:80 -d manu144/p1
+    sudo docker run --name project-1 -p 80:80 -d docker-username/image-name
     sudo docker ps 
 
 (6) Push the new built image into the Docker Hub and Check the Docker Hub to make sure.
@@ -65,6 +66,7 @@ Documentation:
 
     ```bash
     sudo docker pull docker-hub-username/latest
+    sudo docker run -d -p 80:80 --name manu144_container manu144/p1:latest
 
 (9) After Entering into the Project Directory Create a index.html, dockerfile, Sub-Dir for Prometheus and Monitoring.
 
